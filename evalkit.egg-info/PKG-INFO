@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: evalkit
+Version: 0.1.0
+Summary: Run repeatable, dataset-backed evaluations against local agent outputs.
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# evalkit
+
+Run repeatable, dataset-backed evaluations against local agent outputs.
+
+## Quick start
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -e .
+```
+
+This 0.1.0 MVP is local-first and has no runtime dependencies. See `examples/` for a fixture. The project is experimental; contributions and issue reports are welcome.

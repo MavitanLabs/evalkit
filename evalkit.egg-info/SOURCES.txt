@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+evalkit/__init__.py
+evalkit/cli.py
+evalkit/core.py
+evalkit.egg-info/PKG-INFO
+evalkit.egg-info/SOURCES.txt
+evalkit.egg-info/dependency_links.txt
+evalkit.egg-info/entry_points.txt
+evalkit.egg-info/top_level.txt
+tests/test_evalkit.py
